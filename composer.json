@@ -13,14 +13,14 @@
     ],
     "require": {
         "php": "^8.0.2",
-        "illuminate/database": "^9.0",
-        "illuminate/filesystem": "^9.0",
-        "illuminate/support": "^9.0",
-        "fakerphp/faker": "^1.19",
+        "illuminate/database": "^10.0",
+        "illuminate/filesystem": "^10.0",
+        "illuminate/support": "^10.0",
         "bordoni/phpass": "0.3.*",
         "thunderer/shortcode": "^0.7.3"
     },
     "require-dev": {
+        "fakerphp/faker": "^1.9.1",
         "laravel/legacy-factories": "^1.0",
         "orchestra/testbench": "^7.0",
         "symfony/thanks": "^1.0",
